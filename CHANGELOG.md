@@ -5,3 +5,6 @@
 
 ## v1.1 - Docs Update
 - Added changelog entry for lab submission
+
+## v1.1 - Remote Update
+- Pushed changelog update to GitHub
