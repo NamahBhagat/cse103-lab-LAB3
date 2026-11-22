@@ -1,4 +1,4 @@
-# CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
+# CSE103 Lab â€” LAB 3: GitHub Collaboration & API Interaction
 
 ![Last Commit](https://img.shields.io/github/last-commit/NamahBhagat/cse103-lab-LAB3)
 ![Language](https://img.shields.io/badge/language-Python-blue)
@@ -44,3 +44,9 @@ python3 main.py
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
